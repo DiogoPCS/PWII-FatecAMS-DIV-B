@@ -6,5 +6,11 @@
  * reprovado
  */
 
- 
+ $mecao = 'I';
+
+ if ($mencao == "I")
+    echo "Reprovado";
+else
+    echo "Aprovado";
+
 ?>
